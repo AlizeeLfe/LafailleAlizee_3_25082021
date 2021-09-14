@@ -1,0 +1,38 @@
+footer {
+	background-color: rgb(53, 53, 53);
+	color: white;
+	padding: 20px;
+	.footer__logofooter {
+	margin-bottom: 10px;
+	}
+}
+
+footer img {
+	filter: invert(100%);
+	width: 90px;
+}
+
+.serviceclient a {
+	text-decoration: none;
+	color: white;
+}
+
+.serviceclient__suggestion i {
+	font-size: 13px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+
+.serviceclient__partenariat i {
+	font-size: 9px;
+	padding-right: 4px;
+	padding-bottom: 5px;
+}
+
+.serviceclient__legal {
+	padding-bottom: 5px;
+}
+
+.serviceclient__mail {
+	padding-bottom: 5px;
+}

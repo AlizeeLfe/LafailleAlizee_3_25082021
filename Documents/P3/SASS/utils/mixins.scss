@@ -1,0 +1,16 @@
+@mixin bgcolor-gradient{
+    background: linear-gradient(#FF79DA, 45%,#9356DC);
+}
+
+@mixin boxshadow{
+      box-shadow: 2px 4px 7px lightgray ;
+}
+
+@mixin textfont{
+    font-family: 'Roboto', sans-serif;
+}
+
+@mixin titlefont{
+    font-family: 'Shrikhand', cursive;
+}
+
